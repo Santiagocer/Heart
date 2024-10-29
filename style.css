@@ -8,7 +8,7 @@ body{
 
 .heart{
     font-size: 10rem;
-    animation: heart .5s infinite alternate linear;
+    animation: heart .9s infinite alternate linear;
 }
 
 @keyframes heart {
